@@ -91,10 +91,6 @@ $(eval $(call gb_Package_add_files_with_dir,helpcontent2_html_media,$(LIBO_SHARE
     helpimg/sc_PivotChartButtons.png \
     helpimg/sc_data_form01.png \
     helpimg/sc_cell_with_comment_displayed.png \
-    helpimg/sc_func_imcos.svg \
-    helpimg/sc_func_imcosh.svg \
-    helpimg/sc_func_imsin.svg \
-    helpimg/sc_func_imsinh.svg \
     helpimg/scalc/country_codes.png \
     helpimg/scalc/comment_indicator.png \
     helpimg/scalc/formula_indicator.png \
@@ -104,6 +100,7 @@ $(eval $(call gb_Package_add_files_with_dir,helpcontent2_html_media,$(LIBO_SHARE
     helpimg/scalc/cursor_themed.png \
     helpimg/scalc/cursor_system.png \
     helpimg/scalc/refs_in_color.png \
+    helpimg/scalc/dynarrayspill.png \
     helpimg/sc_func_opt01.svg \
     helpimg/sd_drawing_with_comment.png \
     helpimg/sd_PresenterConsole01.png \
@@ -174,6 +171,8 @@ $(eval $(call gb_Package_add_files_with_dir,helpcontent2_html_media,$(LIBO_SHARE
     helpimg/sbasic/With_statement.svg \
     helpimg/sbasic/Write_statement.svg \
     helpimg/schart/CategoryProperties.png \
+    helpimg/schart/correlation_circle_table.avif \
+    helpimg/schart/correlation_circle_chart.webp \
     helpimg/scalc/coordinates-to-polar-01.svg \
     helpimg/scalc/calczoomslider.png \
     helpimg/sdraw/area-fill-none-same-vs-background.png \
@@ -188,6 +187,8 @@ $(eval $(call gb_Package_add_files_with_dir,helpcontent2_html_media,$(LIBO_SHARE
     helpimg/sdraw/distribute-VB.svg \
     helpimg/sdraw/distribute-VC.svg \
     helpimg/sdraw/distribute-VS.svg \
+    helpimg/sdraw/ColorWheel.svg \
+    helpimg/sdraw/RGBCube.svg \
     helpimg/starmath/harpoon.svg \
     helpimg/starmath/wideharpoon.svg \
     helpimg/starmath/al21801.svg \
@@ -393,6 +394,12 @@ $(eval $(call gb_Package_add_files_with_dir,helpcontent2_html_media,$(LIBO_SHARE
     helpimg/impress_remote01.png \
     helpimg/impress_remote02.png \
     helpimg/legacy_rect.png \
+    helpimg/moon-line.svg \
+    helpimg/search-line-dark.svg \
+    helpimg/search-line-light.svg \
+    helpimg/service-line-dark.svg \
+    helpimg/service-line-light.svg \
+    helpimg/sun-line.svg \
     navigation/favicon.ico \
     navigation/libo-base.svg \
     navigation/libo-basic.svg \
@@ -402,9 +409,9 @@ $(eval $(call gb_Package_add_files_with_dir,helpcontent2_html_media,$(LIBO_SHARE
     navigation/libo-impress.svg \
     navigation/libo-math.svg \
     navigation/libo-symbol-black.svg \
+    navigation/libo-symbol-black-alt.svg \
     navigation/libo-symbol-white.svg \
     navigation/libo-writer.svg \
-    screenshots/modules/sdraw/ui/copydlg/DuplicateDialog.png \
     screenshots/modules/sdraw/ui/dlgsnap/SnapObjectDialog.png \
     screenshots/modules/sdraw/ui/insertlayer/InsertLayerDialog.png \
     screenshots/modules/sdraw/ui/insertslidesdialog/InsertSlidesDialog.png \
@@ -434,7 +441,6 @@ $(eval $(call gb_Package_add_files_with_dir,helpcontent2_html_media,$(LIBO_SHARE
     screenshots/modules/simpress/ui/customanimationtimingtab/TimingTab.png \
     screenshots/cui/ui/colorpage/ColorPage.png \
     screenshots/cui/ui/colorpickerdialog/ColorPicker.png \
-    screenshots/cui/ui/effectspage/EffectsPage.png \
     screenshots/cui/ui/hyperlinkdocpage/HyperlinkDocPage.png \
     screenshots/cui/ui/hyperlinkinternetpage/HyperlinkInternetPage.png \
     screenshots/cui/ui/hyperlinkmailpage/HyperlinkMailPage.png \

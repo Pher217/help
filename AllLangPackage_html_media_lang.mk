@@ -235,7 +235,6 @@ $(foreach lang,$(filter-out en-US,$(gb_HELP_LANGS)),$(eval $(call gb_AllLangPack
     screenshots/modules/smath/ui/savedefaultsdialog/$(lang)/SaveDefaultsDialog.png \
     screenshots/modules/smath/ui/spacingdialog/$(lang)/SpacingDialog.png \
     screenshots/svx/ui/compressgraphicdialog/$(lang)/CompressGraphicDialog.png \
-    screenshots/modules/sdraw/ui/copydlg/$(lang)/DuplicateDialog.png \
     screenshots/modules/sdraw/ui/dlgsnap/$(lang)/SnapObjectDialog.png \
     screenshots/modules/sdraw/ui/insertlayer/$(lang)/InsertLayerDialog.png \
     screenshots/modules/sdraw/ui/insertslidesdialog/$(lang)/InsertSlidesDialog.png \
@@ -258,7 +257,6 @@ $(foreach lang,$(filter-out en-US,$(gb_HELP_LANGS)),$(eval $(call gb_AllLangPack
     screenshots/writerperfect/ui/exportepub/$(lang)/EpubDialog.png \
     screenshots/cui/ui/colorpickerdialog/$(lang)/ColorPicker.png \
     screenshots/cui/ui/colorpage/$(lang)/ColorPage.png \
-    screenshots/cui/ui/effectspage/$(lang)/EffectsPage.png \
     screenshots/cui/ui/hyperlinkdocpage/$(lang)/HyperlinkDocPage.png \
     screenshots/cui/ui/hyperlinkinternetpage/$(lang)/HyperlinkInternetPage.png \
     screenshots/cui/ui/hyperlinkmailpage/$(lang)/HyperlinkMailPage.png \

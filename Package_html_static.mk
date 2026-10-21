@@ -24,7 +24,7 @@ $(eval $(call gb_Package_add_files,helpcontent2_html_static,$(LIBO_SHARE_HELP_FO
 	paginathing.js \
 	polyfills.js \
 	prism.js \
-        prism.css \
+	prism.css \
 ))
 
 # vim: set noet sw=4 ts=4:

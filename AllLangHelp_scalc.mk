@@ -177,8 +177,10 @@ $(eval $(call gb_AllLangHelp_add_helpfiles,scalc,\
     helpcontent2/source/text/scalc/01/12120300 \
     helpcontent2/source/text/scalc/01/Add \
     helpcontent2/source/text/scalc/01/calculate \
+    helpcontent2/source/text/scalc/01/cell_alignment \
     helpcontent2/source/text/scalc/01/cell_styles \
     helpcontent2/source/text/scalc/01/calculation_accuracy \
+    helpcontent2/source/text/scalc/01/easyconditional \
     helpcontent2/source/text/scalc/01/data_form \
     helpcontent2/source/text/scalc/01/databar_more_options \
     helpcontent2/source/text/scalc/01/database_table_reference \
@@ -373,6 +375,7 @@ $(eval $(call gb_AllLangHelp_add_helpfiles,scalc,\
     helpcontent2/source/text/scalc/01/SheetCommentMenu \
     helpcontent2/source/text/scalc/01/sheet_tab_color \
     helpcontent2/source/text/scalc/01/ShowNote \
+    helpcontent2/source/text/scalc/01/shuffle \
     helpcontent2/source/text/scalc/01/sidebar_alignment \
     helpcontent2/source/text/scalc/01/sidebar_cell_appearance \
     helpcontent2/source/text/scalc/01/sidebar_number_format \
@@ -464,6 +467,7 @@ $(eval $(call gb_AllLangHelp_add_helpfiles,scalc,\
     helpcontent2/source/text/scalc/guide/datapilot_updatetable \
     helpcontent2/source/text/scalc/guide/dbase_files \
     helpcontent2/source/text/scalc/guide/design \
+    helpcontent2/source/text/scalc/guide/dynamic_arrays \
     helpcontent2/source/text/scalc/guide/edit_multitables \
     helpcontent2/source/text/scalc/guide/filters \
     helpcontent2/source/text/scalc/guide/finding \

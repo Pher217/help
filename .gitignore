@@ -14,3 +14,6 @@
 
 # libxslt debug memdump
 .memdump
+
+# graphify build output — canonical home is ~/dev/Graphify/{Project}/{repo}/
+graphify-out/
